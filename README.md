@@ -1,7 +1,7 @@
 # Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 
-# Senior Python Developer <img src="https://https://i.gifer.com/origin/25/25dcee6c68fdb7ac42019def1083b2ef_w200.gif" width="35" />
+# Senior Python Developer <img src="https://i.gifer.com/origin/25/25dcee6c68fdb7ac42019def1083b2ef_w200.gif" width="35" />
 <p align="center">
 
 <a href="https://www.linkedin.com/in/waseem-badar-python" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
